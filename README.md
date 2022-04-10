@@ -27,3 +27,6 @@ Then enter the following in your terminal:
 5. `source <VirtualEnvironmentName>/bin/activate`
 6. `make install`
 7. `python main.py`
+
+# Data
+Data is available for download at the following link: https://drive.google.com/file/d/1MKllSyP-srTXByeK_LCuQ-7qiLOFlkwQ/view?usp=sharing
